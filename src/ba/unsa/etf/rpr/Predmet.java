@@ -9,7 +9,7 @@ public class Predmet {
     public String getNaziv() {
         return naziv;
     }
-
+     /*dnasjknfoknojfpodsjpofjsdopjfopdsjofpsd*/
     public void setNaziv(String naziv) {
         this.naziv = naziv;
     }
